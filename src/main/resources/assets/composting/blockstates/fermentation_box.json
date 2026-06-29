@@ -1,0 +1,52 @@
+{
+	"variants": {
+		"level=0,ready=false": {
+			"model": "composting:block/fermentation_box/fermentation_box"
+		},
+		"level=1,ready=false": {
+			"model": "composting:block/fermentation_box/1"
+		},
+		"level=2,ready=false": {
+			"model": "composting:block/fermentation_box/2"
+		},
+		"level=3,ready=false": {
+			"model": "composting:block/fermentation_box/3"
+		},
+		"level=4,ready=false": {
+			"model": "composting:block/fermentation_box/4"
+		},
+		"level=5,ready=false": {
+			"model": "composting:block/fermentation_box/5"
+		},
+		"level=6,ready=false": {
+			"model": "composting:block/fermentation_box/6"
+		},
+		"level=7,ready=false": {
+			"model": "composting:block/fermentation_box/7"
+		},
+		"level=0,ready=true": {
+			"model": "composting:block/fermentation_box/ready"
+		},
+		"level=1,ready=true": {
+			"model": "composting:block/fermentation_box/ready"
+		},
+		"level=2,ready=true": {
+			"model": "composting:block/fermentation_box/ready"
+		},
+		"level=3,ready=true": {
+			"model": "composting:block/fermentation_box/ready"
+		},
+		"level=4,ready=true": {
+			"model": "composting:block/fermentation_box/ready"
+		},
+		"level=5,ready=true": {
+			"model": "composting:block/fermentation_box/ready"
+		},
+		"level=6,ready=true": {
+			"model": "composting:block/fermentation_box/ready"
+		},
+		"level=7,ready=true": {
+			"model": "composting:block/fermentation_box/ready"
+		}
+	}
+}

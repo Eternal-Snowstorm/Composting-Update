@@ -1,0 +1,7 @@
+{
+	"type": "composting:fermentation_box",
+	"ingredient": {
+		"item": "minecraft:oak_leaves"
+	},
+	"chance": 0.3
+}

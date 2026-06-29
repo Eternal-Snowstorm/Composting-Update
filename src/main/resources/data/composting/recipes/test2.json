@@ -1,0 +1,12 @@
+{
+	"type": "composting:fermentation_box",
+	"ingredient": [
+		{
+			"item": "minecraft:apple"
+		},
+		{
+			"item": "minecraft:iron_ingot"
+		}
+	],
+	"chance": 1
+}
